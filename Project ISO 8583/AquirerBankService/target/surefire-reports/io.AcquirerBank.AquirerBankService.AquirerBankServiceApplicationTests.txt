@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.AcquirerBank.AquirerBankService.AquirerBankServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.035 s - in io.AcquirerBank.AquirerBankService.AquirerBankServiceApplicationTests
